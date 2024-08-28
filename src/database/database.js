@@ -49,6 +49,5 @@ export class Database {
         ...data
       }
     }
-    console.log(rowIndex)
   }
 }
